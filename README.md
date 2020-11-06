@@ -1,4 +1,4 @@
-# Dataset Load Class
+# Dataset Loading Class
 
 This python class helps you to read various dataset file types including, JSON, CSV, etc. Each function is for a specific type of dataset file. 
 
